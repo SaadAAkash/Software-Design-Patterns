@@ -1,0 +1,1 @@
+This repo containns various types of Software Design patterns I applied on a single project. The project includes simple solution to the given assignment, and then on all the design patterns applied on it.
