@@ -1,0 +1,25 @@
+Ashraful Islam
+Javed Umar
+Ferdous Professor
+Nazmul Professor
+Farhad AssiatantProfessor
+Razzaque AssociateProfessor
+Ahsan AssistantProfessor
+Haydar AssociateProfessor
+student
+zihad 1010
+tiash 3025
+zawad 1025
+turag 2125
+fahim 2332
+rakib 1234
+tushar 3654
+mofakkhar 1245
+monmoy 4251
+zisan 4123
+hasan 4321
+shovon 9876
+sabbir 9875
+amin 7854
+azhar 4444
+
